@@ -1,12 +1,12 @@
 {
-  "displayName": "Homebridge Blinds Connector",
-  "name": "homebridge-connector-hub",
-  "version": "1.1.9",
+  "displayName": "Homebridge Blinds Levolor",
+  "name": "homebridge-levolor",
+  "version": "1.2.0",
   "description": "A Homebridge plugin to expose Connector+ compatible blinds, curtains, awnings etc to Homekit",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gormanb/homebridge-connector-hub.git"
+    "url": "https://github.com/bnikx/homebridge-levolor.git"
   },
   "bugs": {
     "url": "https://github.com/gormanb/homebridge-connector-hub/issues"
